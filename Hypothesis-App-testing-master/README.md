@@ -69,4 +69,4 @@ Instant plotting to visualize data distribution and detect outliers:
 ## 🤝 Contact
 
 Developed by **Tran An Khoa & Nguyen Tien Dat**.
-If you have any questions regarding the statistical methods or code structure, feel free to reach out via khoatran201105@gmail.com.
+If you have any questions regarding the statistical methods or code structure, feel free to reach out via nguyentiendat275000@gmail.com.
